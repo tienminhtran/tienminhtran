@@ -8,7 +8,7 @@
 - 💬 Hỏi tôi về **JAVA, PHP, HTML,...**
 
 - 📫 Cách liên hệ với tôi **tientot36@gmail.com**
-
+- <a href="https://docs.google.com/document/d/1YrlR4RJldBo9lLMnDvDE9tRmZlKkBR-b/edit?usp=sharing&ouid=107852480839649083588&rtpof=true&sd=true" target="_blank">Help</a>
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/tmt2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tmt2k3" height="30" width="40" /></a>
