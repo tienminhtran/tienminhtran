@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tienminhtran" alt="tienminhtran" /></a> </p>
 
-- 💬 Hỏi tôi về **JAVA, PHP, HTML,...**
+- 💬 Hỏi tôi về **HTML5, CSS3, JavaScript, Java,PHP, SQL, Python, React,Native, React.js, Node.js, MongoDB; MySQL, MariaDB
+**
 
 - 📫 Cách liên hệ với tôi **tientot36@gmail.com**
 - <a href="https://meet.google.com/gve-wxvx-jcs?pli=1&amp;authuser=0" target="_blank">Help</a>
