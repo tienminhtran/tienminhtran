@@ -4,15 +4,20 @@
 <p align="left"> <img src="https://res.cloudinary.com/dmabepfxv/image/upload/v1756255139/Screenshot_2025-08-27_073529_vjre5w.png" alt="tienminhtran" /> </p>
 
 
+
 - 💬 Hỏi tôi về **HTML5, CSS3, JavaScript, Java, PHP, SQL, Python, React, Native, React.js, Node.js, MongoDB, MySQL, MariaDB, C, Swift, Kotlin, TypeScript, Docker, Kubernetes**
 
 - 📫 Cách liên hệ với tôi **tientot36@gmail.com**
+- 📫 Cách liên hệ với tôi **minhtien.dev.iuh.edu@gmail.com**
 - <a href="https://meet.google.com/gve-wxvx-jcs?pli=1&amp;authuser=0" target="_blank">Help</a>
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/tmt2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tmt2k3" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@thkthichcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@thkthichcode" height="30" width="40" /></a>
 </p>
+
+
+
 
 <h3 align="left">Ngôn ngữ và Công cụ:</h3>
 <p align="left">
@@ -35,5 +40,7 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
-
+<h3 align="left">CV - My</h3>
+<p align="left"> <img src="https://res.cloudinary.com/dmabepfxv/image/upload/v1756255474/Screenshot_2025-08-27_074320_usfjbe.png" alt="tienminhtran" /> </p>
+<p align="left"> <img src="https://res.cloudinary.com/dmabepfxv/image/upload/v1756255475/Screenshot_2025-08-27_074415_ctgnnk.png" alt="tienminhtran" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tienminhtran&show_icons=true&locale=vi" alt="tienminhtran" /></p>
