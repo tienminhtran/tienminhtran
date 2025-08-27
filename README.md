@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào 👋, tôi là <b> Tiến</b></h1>
 <h3 align="center">Backend Developer, Frontend, App Android</h3>
 
-<p align="left"> <img src="https://drive.google.com/file/d/1ODiabNK4fTHyQozz9UA0JQLof--hK7k0/view?usp=sharing" alt="tienminhtran" /> </p>
+<p align="left"> <img src="https://res.cloudinary.com/dmabepfxv/image/upload/v1756255139/Screenshot_2025-08-27_073529_vjre5w.png" alt="tienminhtran" /> </p>
 
 
 - 💬 Hỏi tôi về **HTML5, CSS3, JavaScript, Java, PHP, SQL, Python, React, Native, React.js, Node.js, MongoDB, MySQL, MariaDB, C, Swift, Kotlin, TypeScript, Docker, Kubernetes**
