@@ -11,11 +11,20 @@
 - 📫 Cách liên hệ với tôi **minhtien.dev.iuh.edu@gmail.com**
 - <a href="https://meet.google.com/gve-wxvx-jcs?pli=1&amp;authuser=0" target="_blank">Help</a>
 <h3 align="left">Kết nối với tôi:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/tmt2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tmt2k3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@thkthichcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@thkthichcode" height="30" width="40" /></a>
-</p>
 
+
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://fb.com/https://www.facebook.com/tmt2k3" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tienminhtran-facebook" />
+  </a>
+   <a href="https://www.youtube.com/c/https://www.youtube.com/@thkthichcode" target="blank">
+    <img src="https://icons8.com/icon/115371/youtube-squared" alt="tienminhtran-youtube" />
+  </a>
+  <a href="https://www.linkedin.com/in/tienminhtran/" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="tienminhtran-linkedin" />
+  </a>
+</div>
 
 
 
