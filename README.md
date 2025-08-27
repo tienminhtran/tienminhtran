@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tienminhtran-facebook" />
   </a>
    <a href="https://www.youtube.com/c/https://www.youtube.com/@thkthichcode" target="blank">
-    <img src="https://img.icons8.com/?size=256&id=115371&format=png" alt="tienminhtran-youtube" />
+    <img src="https://img.icons8.com/?size=100&id=115371&format=png" alt="tienminhtran-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/tienminhtran/" target="blank">
     <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="tienminhtran-linkedin" />
