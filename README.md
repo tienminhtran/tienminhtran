@@ -1,7 +1,7 @@
-<h1 align="center">Xin chào 👋, tôi là Trần Minh Tiến</h1>
+<h1 align="center">Xin chào 👋, tôi là <b> Tiến</b></h1>
 <h3 align="center">Backend Developer, Frontend, App Android</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tienminhtran&label=Profile%20views&color=0e75b6&style=flat" alt="tienminhtran" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1ODiabNK4fTHyQozz9UA0JQLof--hK7k0/view?usp=sharing" alt="tienminhtran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tienminhtran" alt="tienminhtran" /></a> </p>
 
