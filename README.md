@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://drive.google.com/file/d/1ODiabNK4fTHyQozz9UA0JQLof--hK7k0/view?usp=sharing" alt="tienminhtran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tienminhtran" alt="tienminhtran" /></a> </p>
 
 - 💬 Hỏi tôi về **HTML5, CSS3, JavaScript, Java, PHP, SQL, Python, React, Native, React.js, Node.js, MongoDB, MySQL, MariaDB, C, Swift, Kotlin, TypeScript, Docker, Kubernetes**
 
