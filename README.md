@@ -26,6 +26,12 @@
   </a>
 </div>
 
+<a href="https://github.com/tienminhtran">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tienminhtran&theme=buefy&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienminhtran&layout=pie&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienminhtran&langs_count=10&layout=compact&theme=vue-dark" />
+
+</a>
 
 
 <h3 align="left">Ngôn ngữ và Công cụ:</h3>
@@ -52,4 +58,4 @@
 <h3 align="left">CV - My</h3>
 <p align="left"> <img src="https://res.cloudinary.com/dmabepfxv/image/upload/v1756255474/Screenshot_2025-08-27_074320_usfjbe.png" alt="tienminhtran" /> </p>
 <p align="left"> <img src="https://res.cloudinary.com/dmabepfxv/image/upload/v1756255475/Screenshot_2025-08-27_074415_ctgnnk.png" alt="tienminhtran" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tienminhtran&show_icons=true&locale=vi" alt="tienminhtran" /></p>
+
