@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://res.cloudinary.com/dmabepfxv/image/upload/v1756255139/Screenshot_2025-08-27_073529_vjre5w.png" alt="tienminhtran" /> </p>
 
-https://docs.google.com/document/d/1spw4xiEqGrT9pxheDKaIsXOFgDxueGg7/edit?usp=sharing&ouid=107852480839649083588&rtpof=true&sd=true
 
 - 💬 Hỏi tôi về **HTML5, CSS3, JavaScript, Java, PHP, SQL, Python, React, Native, React.js, Node.js, MongoDB, MySQL, MariaDB, C, Swift, Kotlin, TypeScript, Docker, Kubernetes**
 
